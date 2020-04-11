@@ -1,0 +1,15 @@
+.markdown{
+  background-color: white;
+  color: black;
+  min-height: 300px;
+
+}
+
+.markdown *{
+  text-align: left;
+}
+
+.output-body{
+  height: 400px;
+  overflow-y: scroll;
+}
